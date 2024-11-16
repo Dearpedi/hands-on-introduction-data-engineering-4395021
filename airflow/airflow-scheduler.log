@@ -1,0 +1,27 @@
+2024-11-16 13:38:26,476 INFO - Starting the scheduler
+2024-11-16 13:38:26,477 INFO - Processing each file at most -1 times
+2024-11-16 13:38:26,481 INFO - Launched DagFileProcessorManager with pid: 5385
+2024-11-16 13:38:26,482 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 13:38:26,484 INFO - Configured default timezone Timezone('UTC')
+2024-11-16 13:43:26,617 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 13:48:26,751 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 13:52:03,087 INFO - Exiting gracefully upon receiving signal 15
+2024-11-16 13:52:04,090 INFO - Sending Signals.SIGTERM to group 5385. PIDs of all processes in the group: [5385]
+2024-11-16 13:52:04,090 INFO - Sending the signal Signals.SIGTERM to group 5385
+2024-11-16 13:52:04,263 INFO - Process psutil.Process(pid=5385, status='terminated', exitcode=0, started='13:38:26') (5385) terminated with exit code 0
+2024-11-16 13:52:04,265 INFO - Sending Signals.SIGTERM to group 5385. PIDs of all processes in the group: []
+2024-11-16 13:52:04,265 INFO - Sending the signal Signals.SIGTERM to group 5385
+2024-11-16 13:52:04,265 INFO - Sending the signal Signals.SIGTERM to process 5385 as process group is missing.
+2024-11-16 13:52:04,265 INFO - Exited execute loop
+2024-11-16 13:52:50,289 INFO - Starting the scheduler
+2024-11-16 13:52:50,290 INFO - Processing each file at most -1 times
+2024-11-16 13:52:50,294 INFO - Launched DagFileProcessorManager with pid: 11545
+2024-11-16 13:52:50,295 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 13:52:50,297 INFO - Configured default timezone Timezone('UTC')
+2024-11-16 13:57:50,354 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 14:02:50,393 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 14:07:50,433 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 14:12:50,474 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 14:17:50,513 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 14:22:50,552 INFO - Resetting orphaned tasks for active dag runs
+2024-11-16 14:27:50,590 INFO - Resetting orphaned tasks for active dag runs
